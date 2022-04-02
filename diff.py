@@ -1,4 +1,4 @@
 a=5
 b=2
 
-print(a-b)
+print(f'The difference is: {a-b}')
